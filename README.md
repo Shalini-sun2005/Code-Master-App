@@ -1,2 +1,2 @@
-# Code-Master-App
- The Coding App is an interactive learning platform designed to teach programming in a fun and  engaging way. It helps students and beginners learn coding languages like Python, Java, C, and JavaScript through  games, coding challenges, and puzzles instead of traditional lectures
+# CODE-MASTER-APP
+ The Coding App is an interactive learning platform designed to teach programming in a fun and  engaging way. It helps students and beginners learn coding languages like Python, Java, C, and JavaScript through  games, coding challenges, and puzzles instead of traditional lectures.The main goal of the app is to make learning to code simple, enjoyable, and hands-on. By combining education with gameplay, users can Practice coding through real-world exercises,Earn badges and achievements for completing levels,Track their progress and improve step by step,Unlock premium content to explore game development and advanced coding topics.
